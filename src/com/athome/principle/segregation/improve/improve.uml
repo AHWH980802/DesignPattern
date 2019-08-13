@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Diagram>
+  <ID>JAVA</ID>
+  <OriginalElement>com.athome.principle.segregation.improve</OriginalElement>
+  <nodes>
+    <node x="79.87500000000006" y="0.0">com.athome.principle.segregation.improve.interface3</node>
+    <node x="0.0" y="127.0">com.athome.principle.segregation.improve.C</node>
+    <node x="593.625" y="0.0">com.athome.principle.segregation.improve.interface2</node>
+    <node x="232.00000000000003" y="127.0">com.athome.principle.segregation.improve.D</node>
+    <node x="419.0" y="127.0">com.athome.principle.segregation.improve.A</node>
+    <node x="651.0" y="127.0">com.athome.principle.segregation.improve.B</node>
+    <node x="307.25" y="287.0">com.athome.principle.segregation.improve.Segregation</node>
+    <node x="331.125" y="11.5">com.athome.principle.segregation.improve.interface1</node>
+  </nodes>
+  <notes />
+  <edges>
+    <edge source="com.athome.principle.segregation.improve.Segregation" target="com.athome.principle.segregation.improve.D">
+      <point x="-14.416666666666629" y="-27.0" />
+      <point x="379.33333333333337" y="247.0" />
+      <point x="315.5" y="247.0" />
+      <point x="0.0" y="50.0" />
+    </edge>
+    <edge source="com.athome.principle.segregation.improve.Segregation" target="com.athome.principle.segregation.improve.C">
+      <point x="-72.08333333333326" y="-27.0" />
+      <point x="321.66666666666674" y="267.0" />
+      <point x="53.0" y="267.0" />
+      <point x="-53.0" y="50.0" />
+    </edge>
+    <edge source="com.athome.principle.segregation.improve.Segregation" target="com.athome.principle.segregation.improve.B">
+      <point x="72.08333333333331" y="-27.0" />
+      <point x="465.8333333333333" y="267.0" />
+      <point x="734.5" y="267.0" />
+      <point x="0.0" y="50.0" />
+    </edge>
+    <edge source="com.athome.principle.segregation.improve.Segregation" target="com.athome.principle.segregation.improve.A">
+      <point x="14.416666666666686" y="-27.0" />
+      <point x="408.1666666666667" y="247.0" />
+      <point x="472.0" y="247.0" />
+      <point x="-53.0" y="50.0" />
+    </edge>
+    <edge source="com.athome.principle.segregation.improve.B" target="com.athome.principle.segregation.improve.interface1">
+      <point x="-41.75" y="-50.0" />
+      <point x="692.75" y="97.0" />
+      <point x="477.25" y="97.0" />
+      <point x="62.625" y="27.0" />
+    </edge>
+    <edge source="com.athome.principle.segregation.improve.D" target="com.athome.principle.segregation.improve.interface3">
+      <point x="-41.75" y="-50.0" />
+      <point x="273.75" y="97.0" />
+      <point x="205.12500000000006" y="97.0" />
+      <point x="41.75" y="38.5" />
+    </edge>
+    <edge source="com.athome.principle.segregation.improve.C" target="com.athome.principle.segregation.improve.interface3">
+      <point x="-53.0" y="-50.0" />
+      <point x="53.0" y="107.0" />
+      <point x="121.62500000000006" y="107.0" />
+      <point x="-41.75" y="38.5" />
+    </edge>
+    <edge source="com.athome.principle.segregation.improve.A" target="com.athome.principle.segregation.improve.interface1">
+      <point x="-53.0" y="-50.0" />
+      <point x="472.0" y="107.0" />
+      <point x="435.5" y="107.0" />
+      <point x="20.875" y="27.0" />
+    </edge>
+    <edge source="com.athome.principle.segregation.improve.B" target="com.athome.principle.segregation.improve.interface2">
+      <point x="41.75" y="-50.0" />
+      <point x="776.25" y="107.0" />
+      <point x="718.875" y="107.0" />
+      <point x="41.75" y="38.5" />
+    </edge>
+    <edge source="com.athome.principle.segregation.improve.A" target="com.athome.principle.segregation.improve.interface2">
+      <point x="53.0" y="-50.0" />
+      <point x="578.0" y="107.0" />
+      <point x="635.375" y="107.0" />
+      <point x="-41.75" y="38.5" />
+    </edge>
+    <edge source="com.athome.principle.segregation.improve.D" target="com.athome.principle.segregation.improve.interface1">
+      <point x="41.75" y="-50.0" />
+      <point x="357.25" y="107.0" />
+      <point x="393.75" y="107.0" />
+      <point x="-20.875" y="27.0" />
+    </edge>
+    <edge source="com.athome.principle.segregation.improve.C" target="com.athome.principle.segregation.improve.interface1">
+      <point x="53.0" y="-50.0" />
+      <point x="159.0" y="107.0" />
+      <point x="352.0" y="107.0" />
+      <point x="-62.625" y="27.0" />
+    </edge>
+  </edges>
+  <settings layout="Hierarchic Group" zoom="1.0" x="409.0" y="170.5" />
+  <SelectedNodes />
+  <Categories>
+    <Category>Methods</Category>
+  </Categories>
+  <SCOPE>All</SCOPE>
+  <VISIBILITY>private</VISIBILITY>
+</Diagram>
+
